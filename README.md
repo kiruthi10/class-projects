@@ -1,2 +1,2 @@
 # projects
-devops java and html projects library
+class projects HTML CSS BOOTSTRAP
